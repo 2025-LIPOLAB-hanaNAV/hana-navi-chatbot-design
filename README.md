@@ -8,7 +8,7 @@
 
 ![hero](docs/cover.png)
 
-[▶ Live Demo([링크](https://effort-bolt-90644136.figma.site/))](#) · [🎨 Figma Prototype](#) · [🧭 Demo Script](docs/DEMO_SCRIPT.md)
+[▶ Live Demo([링크](https://effort-bolt-90644136.figma.site/))](#) ·  [🧭 Demo Script](docs/DEMO_SCRIPT.md)
 
 ---
 
