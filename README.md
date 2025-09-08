@@ -1,5 +1,6 @@
 # hana-navi-chatbot-design
 사내 포털용 AI 챗봇 **‘하나 내비’**의 디자인/프로토타입. 내비게이션 메타포로 질문 → 근거 → 담당자까지 안내하는 근거기반 Q&amp;A 경험(UI/UX·모션·접근성 포함). Figma Make 산출물과 GitHub Pages 데모를 관리합니다.
+아직 미완성이라 모바일보다는 pc에서 더 확인하기 좋습니다.
 
 # 하나 내비 (Hana Navi) — 사내 AI 내비게이션 챗봇 프로토타입
 > 딱딱한 은행 이미지에서 벗어나 **편안하면서도 혁신적인** 정보 탐색 경험.  
@@ -103,7 +104,7 @@
 
 ---
 
-## 스크린샷
+## 스크린샷(지속 추가 예정)
 - `/docs/screens/chat.png` — 챗 뷰  
 - `/docs/screens/evidence.png` — 근거 패널  
 - `/docs/screens/pdf.png` — PDF 뷰어  
@@ -118,14 +119,9 @@
 4. **에스컬레이션**: 담당자 확인하기 → 메일 초안  
 5. **비교**: 다른 경로 보기 → A/B 응답 비교
 
-> 상세 진행 대본은 [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) 참고.
+> 상세 진행 대본은 [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) 참고. (마지막 추가 예정)
 
 ---
 
 ## 실행 & 배포
 > 이 리포는 **Figma Make로 생성된 웹 프로토타입**을 위한 문서/정적 자산 저장소입니다.
-
-### 로컬 미리보기(정적 번들일 경우)
-```bash
-# /dist 또는 /build에 index.html이 있다면
-npx serve dist       # 또는: npx http-server dist
